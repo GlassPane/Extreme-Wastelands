@@ -7,3 +7,7 @@ Download latest:
 
 All Downloads:
 [![Files](https://curse.nikky.moe/api/img/0/files?logo)](https://minecraft.curseforge.com/projects/0/files)
+
+---
+## Roadmap:
+see [Roadmap](roadmap.md) file.
