@@ -32,14 +32,7 @@ public class ExtremeWastelands {
 
     private static final Logger log = LogManager.getLogger(MODID);
 
-    private static final boolean debugMode = false; //FIXME global debug flag, always turn off before releasing!
-
     public static Logger getLogger() {
         return log;
     }
-
-    public static boolean isDebugMode() {
-        return debugMode;
-    }
-
 }
