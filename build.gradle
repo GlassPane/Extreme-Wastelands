@@ -245,6 +245,8 @@ dependencies {
     deobfCompile "com.github.Ladysnake:gaspunk:${project.gp_version}"
     deobfCompile "com.github.UpcraftLP:Gaspunk-Inhaler:${project.gp_inhaler_version}"
 
+    runtime "com.github.Glasspane:Powered-Elytra:${project.elytra_version}"
+
     compileOnly "mezz.jei:jei_${mc_version}:${jei_version}:api"
     runtime "mezz.jei:jei_${mc_version}:${jei_version}"
 
