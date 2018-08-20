@@ -67,7 +67,7 @@
 - [ ] electronics parts (can be used for crafting, or can be reprocessed to obtain gold nuggets)
 - [ ] contaminated organic matter (can be decontaminated into all kinds of plants, flowers, vines, seeds, grass seeds, etc...)
 - [ ] grass seeds (grow a block of dirt into a grass block, transform cobble or stone bricks into their mossy variants on right click, takes some time to grow)
-- [ ] portable crafter (crafting tbale that doesn't need to be placed)
+- [ ] portable crafter (crafting table that doesn't need to be placed)
 
 <br/>
 <br/>
