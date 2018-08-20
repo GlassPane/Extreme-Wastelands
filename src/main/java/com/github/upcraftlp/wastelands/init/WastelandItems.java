@@ -4,7 +4,9 @@ import com.github.upcraftlp.wastelands.ExtremeWastelands;
 import com.github.upcraftlp.wastelands.item.ItemBattery;
 import ladylib.registration.AutoRegister;
 import net.minecraft.item.Item;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 
+@GameRegistry.ObjectHolder(ExtremeWastelands.MODID)
 @AutoRegister(ExtremeWastelands.MODID)
 public class WastelandItems {
 
